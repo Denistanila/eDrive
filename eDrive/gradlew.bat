@@ -1,7 +1,7 @@
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
-@rem  Gradle startup script for Chine
+@rem  Gradle startup script for GitHub
 @rem
 @rem ##########################################################################
 
